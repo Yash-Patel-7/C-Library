@@ -1,4 +1,4 @@
-# C-Library
+# Open-Source C-Library
 
 - `cdll.h` is an implementation of a Circular Doubly Linked List data structure. It includes documentation at the top that explains how to use the library properly and how to customize it for your needs. Time and Space complexities for the algorithms are minimized to offer maximum performance.
 - `GPF.h` contains the General Purpose Functions that are readily available for use in any of your programs. The flagship functions being readLine() which is a massive improvement from the C standard library's scanf(), and Memory Management functionality that abstracts away most, if not all, of the tedious memory deallocation using the `cdll.h` implementation.
